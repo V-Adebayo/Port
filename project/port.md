@@ -128,9 +128,9 @@ The connection has already been closed but Windows keeps it open briefly to ensu
 
 ### `netstat -ano`
 
-![Netstat Output](screenshots/netstat-output.png)
+![Netstat Output](project/netstat-output.png)
 
 ### `tasklist`
 
-![Tasklist Output](screenshots/tasklist-pid.png)
+![Tasklist Output](project/tasklist-pid.png)
 
